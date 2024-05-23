@@ -18,3 +18,7 @@ Here are the visuals that I’ve created:
 •	Attrition by Salary
 •	Attrition by YearsAtCompany
 •	JobSatisfaction
+
+Candy E-Commerce dashboard
+
+The purpose of this dashboard is help the owner of the store to track and analyze their online sales across India. My main source of data are two .CSV files containing multiple columns and rows. I've created multiple visualizations.
